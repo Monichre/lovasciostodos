@@ -1,2 +1,0 @@
-# lovasciostodos
-Begin app
